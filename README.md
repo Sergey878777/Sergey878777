@@ -23,14 +23,18 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNrOWkyd2FucWV3aXJxc3dybDNyNmM3OHAxbWd3b3hjeWd3eXVpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9SJalUjot1PosrmC0k/giphy.gif" width="600" height="300"/>
 </div>
-:man_technologist: Обо мне :
+
+---
+
+### :man_technologist: Обо мне :
 
 Я начинающий системный аналитик <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB2cDhveml4aTN1ODN2Y2trNmc0YW50dDg3bmMzMmM0b3FjaWl1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LXoFuds81sEDJkUDkf/giphy.gif" width="30">
 - :triangular_ruler: По образованию я математик.
 - :train2: Работаю в контрольно-аналитическом отделе Федеральной пассажирской компании.
 - :books: В свободное время практикуюсь в системном анализе и читаю книги.
+---
 
-:hammer_and_wrench: Мои навыки :
+### :hammer_and_wrench: Мои навыки :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
