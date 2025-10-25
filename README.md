@@ -44,3 +44,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
+
+---
+
+### 💡 Мои работы :
+
+### 1. Итоговая работа по SQL
+
+Анализ данных о проектах и сотрудниках компании с использованием PostgreSQL. 
+В проекте:
+- JOIN-запросы
+- подзапросы
+- агрегатные функции
+- оконные и аналитические функции
+- представления
+
+Репозиторий:
+  [sql-final-project](https://github.com/Sergey878777/sql-final-project)
+  ---
